@@ -13,7 +13,7 @@ Welcome to **Gato Game**, an exciting text-based RPG where you choose your class
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JadeGoktube/gato-game.git
+   git clone https://github.com/JadeGoktube/TextBasedRPG.git
    ```
 2. **Navigate to the project directory**:
    ```bash

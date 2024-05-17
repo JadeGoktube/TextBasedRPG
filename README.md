@@ -17,7 +17,7 @@ Welcome to **Gato Game**, an exciting text-based RPG where you choose your class
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd gato-game
+   cd TextBasedRPG
    ```
 3. **Run the game**:
    ```bash

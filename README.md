@@ -1,4 +1,4 @@
-# Gato Game
+# Gato Game (2020)
 
 Welcome to **Gato Game**, an exciting text-based RPG where you choose your class, explore various locations, battle formidable enemies, and uncover hidden treasures.
 
